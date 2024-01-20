@@ -1,0 +1,87 @@
+﻿@model IEnumerable<DungBachComputer.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- inner page banner -->
+<div id="inner_banner" class="section inner_banner_section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="title-holder">
+            <div class="title-holder-cell text-left">
+              <h1 class="page-title">Shop Page</h1>
+              <ol class="breadcrumb">
+                <li><a asp-action="Index" asp-controller="Home">Home</a></li>
+                <li class="active">Sản Phẩm</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end inner page banner -->
+<!-- section -->
+<div class="section padding_layout_1 product_list_main">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <div class="row">
+            @foreach (var item in Model)
+           {
+            <div class="col-md-4 col-sm-6 col-xs-12 margin_bottom_30_all">
+            <div class="product_list">
+              <div class="product_img"> <img class="img-responsive" src="@item.AnhSp" alt=""> </div>
+              <div class="product_detail_btm">
+                <div class="center">
+                  <h4><a asp-action="Details" asp-route-id="@item.MaSp">@item.TenSp</a></h4>
+                </div>
+                <div class="starratin">
+                  <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
+                </div>
+                <div class="product_price">
+                  <p><span class="old_price">@item.GiaSp.ToString("#,##0") VNĐ</span> – <span class="new_price">@item.GiaSp.ToString("#,##0") VNĐ</span></p>
+                </div>
+              </div>
+            </div>
+          </div>
+           }
+         
+
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="side_bar">
+          <div class="side_bar_blog">
+            <h4>TÌM KIẾM</h4>
+            <div class="side_bar_search">
+              <div class="input-group stylish-input-group">
+                <input class="form-control" placeholder="Search" type="text">
+                <span class="input-group-addon">
+                <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                </span> </div>
+            </div>
+          </div>
+          <div class="side_bar_blog">
+            <h4>DANH MỤC SẢN PHẨM</h4>
+            <div class="categary">
+              <ul>
+                <li><a href="it_data_recovery.html"><i class="fa fa-angle-right"></i> Computer</a></li>
+                <li><a href="it_computer_repair.html"><i class="fa fa-angle-right"></i> Laptop</a></li>
+                <li><a href="it_mobile_service.html"><i class="fa fa-angle-right"></i> Linh Kiện Máy Tính</a></li>
+                <li><a href="it_network_solution.html"><i class="fa fa-angle-right"></i> Dịch Vụ Mạng</a></li>
+                <li><a href="it_techn_support.html"><i class="fa fa-angle-right"></i> Công Nghệ</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->

@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DungBachComputer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\TaiKhoanController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DungBachComputer.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DungBachComputerContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DungBachComputerContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminDanhMucController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\AdminDanhMucController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DanhMucSp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\DanhMucSp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ChiTietDonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ChiTietDonHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\SanPham\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\SanPham\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminSanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\AdminSanPhamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminKhachHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Areas\\Admin\\Controllers\\AdminKhachHangController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangNhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\TaiKhoan\\DangNhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangKy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\TaiKhoan\\DangKy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\SanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\SanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAMAAAAAMzMzMzMrwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T20:05:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DungBachComputer.csproj",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj",
+              "RelativeDocumentMoniker": "DungBachComputer.csproj",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj",
+              "RelativeToolTip": "DungBachComputer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-27T16:24:41.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DungBachComputer.csproj.user",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj.user",
+              "RelativeDocumentMoniker": "DungBachComputer.csproj.user",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\DungBachComputer.csproj.user",
+              "RelativeToolTip": "DungBachComputer.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2023-12-27T16:24:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Controllers\\TaiKhoanController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:43:19.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-27T16:24:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DungBachComputerContext.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DungBachComputerContext.cs",
+              "RelativeDocumentMoniker": "Models\\DungBachComputerContext.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DungBachComputerContext.cs",
+              "RelativeToolTip": "Models\\DungBachComputerContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T16:28:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T16:57:56.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-27T20:13:52.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:29:52.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDanhMucController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminDanhMucController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminDanhMucController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminDanhMucController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminDanhMucController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:35:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:40:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:38:39.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:37:00.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Models\\KhachHang.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:41:10.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "Models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DonHang.cs",
+              "RelativeToolTip": "Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:29:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DanhMucSp.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DanhMucSp.cs",
+              "RelativeDocumentMoniker": "Models\\DanhMucSp.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\DanhMucSp.cs",
+              "RelativeToolTip": "Models\\DanhMucSp.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:12:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "Models\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-28T02:12:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-28T02:11:56.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T19:42:33.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAAGMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:00:40.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:36.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:20.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminKhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminKhachHangController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminKhachHangController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminKhachHangController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminKhachHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:36:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\SanPham\\Details.cshtml",
+              "RelativeToolTip": "Views\\SanPham\\Details.cshtml",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAAGcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:08.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKUBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T20:11:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminSanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminSanPhamController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AdminSanPhamController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\AdminSanPhamController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AdminSanPhamController.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:36:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T18:36:36.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T18:23:31.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaiKhoan\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\TaiKhoan\\DangNhap.cshtml",
+              "RelativeToolTip": "Views\\TaiKhoan\\DangNhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T18:23:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Models\\SanPham.cs",
+              "RelativeToolTip": "Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-27T20:01:27.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:05.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:10:41.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:40.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\17520\\OneDrive\\Desktop\\\u0110\u1ED3 \u00E1n C#\\DungBachComputer\\DungBachComputer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-27T17:14:41.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

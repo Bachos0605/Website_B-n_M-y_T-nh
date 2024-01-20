@@ -1,0 +1,170 @@
+﻿@model IEnumerable<DungBachComputer.Models.SanPham>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- section -->
+<div id="slider" class="section main_slider">
+  <div class="container-fuild">
+    <div class="row">
+      <div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="classicslider1" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+        <!-- START REVOLUTION SLIDER 5.0.7 auto mode -->
+        <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
+          <ul>
+           
+              <!-- MAIN IMAGE -->
+              <img src="~/user_assets/images/it_service/inner_page_banner.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+          </ul>
+          <div class="tp-static-layers"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+<!-- section -->
+<div class="section padding_layout_1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="main_heading text_align_center">
+            <h2>SỰ LỰA CHỌN ĐÚNG ĐẮN</h2>
+            <p class="large">Dịch vụ sửa chữa nhanh nhất với giá tốt nhất!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="~/user_assets/images/it_service/i1.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">Phục Hồi Dữ Liệu</h4>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="~/user_assets/images/it_service/i2.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">Sửa Chữa Máy Tính</h4>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30">
+          <div class="center">
+            <div class="icon"> <img src="~/user_assets/images/it_service/i3.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">Dịch Vụ Điện Thoại</h4>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="full text_align_center margin_bottom_30 margin_0">
+          <div class="center">
+            <div class="icon"> <img src="~/user_assets/images/it_service/i4.png" alt="#" /> </div>
+          </div>
+          <h4 class="theme_color">Giải Pháp Kết Nối</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
+
+<!-- section -->
+<div class="section padding_layout_1">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="main_heading text_align_center">
+            <h2>SẢN PHẨM CỦA CHÚNG TÔI</h2>
+            <p class="large">Chúng tôi đóng gói các sản phẩm với dịch vụ tốt nhất để làm cho bạn một khách hàng hài lòng.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+        @{
+            var MayTinh = Model.Where(x=>x.MaDm == 1);
+        }
+        @foreach (var item in MayTinh)
+       {
+           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 margin_bottom_30_all">
+        <div class="product_list">
+          <div class="product_img"> <img class="img-responsive" src="@item.AnhSp" alt=""> </div>
+          <div class="product_detail_btm">
+            <div class="center">
+              <h4><a asp-action="Details" asp-route-id="@item.MaSp" asp-controller="SanPham">@item.TenSp</a></h4>
+            </div>
+            <div class="starratin">
+              <div class="center"> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star-o" aria-hidden="true"></i> </div>
+            </div>
+            <div class="product_price">
+              <p><span class="old_price">@item.GiaSp.ToString("#,##0") VNĐ</span> – <span class="new_price">@item.GiaSp.ToString("#,##0") VNĐ</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+       }
+      
+
+     
+      </div>
+
+    </div>
+  </div>
+<!-- end section -->
+
+<!-- section -->
+<div class="section padding_layout_1 light_silver gross_layout right_gross_layout">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="full">
+          <div class="main_heading text_align_right">
+            <h2>PHẢN HỒI VỀ CHÚNG TÔI</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row counter">
+      <div class="col-md-4"> </div>
+      <div class="col-md-8">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin_bottom_50">
+            <div class="text_align_right"><i class="fa fa-smile-o"></i></div>
+            <div class="text_align_right">
+              <p class="counter-heading text_align_right">Khách Hàng Hài Lòng</p>
+            </div>
+            <h5 class="counter-count">2150</h5>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin_bottom_50">
+            <div class="text_align_right"><i class="fa fa-laptop"></i></div>
+            <div class="text_align_right">
+              <p class="counter-heading text_align_right">Laptop Đã Bán</p>
+            </div>
+            <h5 class="counter-count">1280</h5>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin_bottom_50">
+            <div class="text_align_right"><i class="fa fa-desktop"></i></div>
+            <div class="text_align_right">
+              <p class="counter-heading">PC Đã Được Lắp Đặt</p>
+            </div>
+            <h5 class="counter-count">848</h5>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 margin_bottom_50">
+            <div class="text_align_right"><i class="fa fa-windows"></i></div>
+            <div class="text_align_right">
+              <p class="counter-heading">Dịch Vụ Hỗ Trợ</p>
+            </div>
+            <h5 class="counter-count">450</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end section -->
